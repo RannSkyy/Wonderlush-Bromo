@@ -1,0 +1,6 @@
+{
+  "name": "Wanderlush Bromo",
+  "description": "Premium Fullstack Landing Page and Interactive Booking Admin Portal for Mount Bromo expeditions.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
